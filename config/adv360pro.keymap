@@ -7,7 +7,7 @@
 &mt {
     tapping-term-ms = <1000>;
     flavor = "tap-preferred";
-    hold-trigger-on-release;
+    hold-while-undecided-linger;
 };
 
 / {
