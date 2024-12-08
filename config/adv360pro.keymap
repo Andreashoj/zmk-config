@@ -5,8 +5,8 @@
 #include <dt-bindings/zmk/rgb.h>
 
 &mt {
-    tapping-term-ms = <200>;
-    flavor = "tap-unless-interrupted";
+    tapping-term-ms = <1000>;
+    flavor = "tap-preferred";
 };
 
 / {
